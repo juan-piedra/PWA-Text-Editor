@@ -5,7 +5,7 @@ const header = `
  __  / / /| | / / / __/   
 / /_/ / ___ |/ / / /___   
  ____/_/  |_/_/ /_____/   
-just another text edito
+just another text editor
 */                          
 `;
 
